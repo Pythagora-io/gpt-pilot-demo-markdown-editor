@@ -1,0 +1,16 @@
+body {
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+#editor {
+    height: 600px;
+}
+
+#preview {
+    height: 600px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    overflow: auto;
+    font-size: 18px;
+}
