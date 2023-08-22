@@ -4,7 +4,7 @@
 
 ## ▶️ Video of the app creation process
 <div align="center">
-  <a href="https://youtu.be/uZeA1iX9dgg"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/10895136/262329515-08a83630-ad60-4fd1-9c74-ac17d18ff0f0.gif" alt="GPT Pilot Markdown Editor Demo"></a>
+  <a href="https://youtu.be/uZeA1iX9dgg"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/10895136/262334016-0f7937d1-4023-4eac-83a0-aa2f8eca6371.gif" alt="GPT Pilot Markdown Editor Demo"></a>
 </div>
 
 <p align=center>
